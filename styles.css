@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 385px auto;
+  height: 100vh;
+}
+.login-comp {
+  margin: 50px 0px 50px 42px;
+}
+.second-comp {
+  padding: 60px;
+  background: url("https://assets.mongodb-cdn.com/mms/static/images/auth/login_promo_desktop_v20240327.svg");
+}
+.login-head {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  font-family: "MongoDB Value Serif", "Times New Roman", serif;
+  color: rgb(0, 104, 74);
+}
+
+.dont-span {
+  margin-bottom: 32px;
+  color: rgb(28, 45, 56);
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+  text-align: start;
+}
+.google-btn {
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
+  border-radius: 6px;
+  height: 52px;
+  box-shadow: lightgray 0px 1px;
+}
+.css-1l8wmix {
+  width: 300px;
+}
+.css-1l8wmix {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 300px;
+  margin: 20px 0px;
+}
+.css-1l8wmix {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 300px;
+  margin: 20px 0px;
+}
+#email {
+  border-radius: 6px;
+  border-color: rgb(136, 147, 151);
+  height: 36px;
+  font-size: 14px;
+  line-height: 20px;
+  width: 296px;
+}
